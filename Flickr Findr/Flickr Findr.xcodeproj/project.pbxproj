@@ -21,7 +21,6 @@
 		BB45588C1FBE6A4500AA6BBE /* APIResponseValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB45588B1FBE6A4500AA6BBE /* APIResponseValues.swift */; };
 		BB45588F1FBE6C5600AA6BBE /* JSONUtilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB45588E1FBE6C5600AA6BBE /* JSONUtilities.swift */; };
 		BB45593D1FBE922B00AA6BBE /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB45593C1FBE922B00AA6BBE /* UIViewController+Extension.swift */; };
-		BB53FB2B1FBFA096008F29F5 /* ReadMe.rtf in Resources */ = {isa = PBXBuildFile; fileRef = BB53FB2A1FBFA096008F29F5 /* ReadMe.rtf */; };
 		BBB5798A1FBD66360073F52F /* APIKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBB579891FBD66360073F52F /* APIKeys.swift */; };
 		BBB5798C1FBD6EF90073F52F /* Photos.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBB5798B1FBD6EF90073F52F /* Photos.swift */; };
 		BBC7636A1FBD2451003F274B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBC763691FBD2451003F274B /* AppDelegate.swift */; };
@@ -63,7 +62,6 @@
 		BB45588B1FBE6A4500AA6BBE /* APIResponseValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIResponseValues.swift; sourceTree = "<group>"; };
 		BB45588E1FBE6C5600AA6BBE /* JSONUtilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONUtilities.swift; sourceTree = "<group>"; };
 		BB45593C1FBE922B00AA6BBE /* UIViewController+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extension.swift"; sourceTree = "<group>"; };
-		BB53FB2A1FBFA096008F29F5 /* ReadMe.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = ReadMe.rtf; sourceTree = "<group>"; };
 		BBB579891FBD66360073F52F /* APIKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKeys.swift; sourceTree = "<group>"; };
 		BBB5798B1FBD6EF90073F52F /* Photos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photos.swift; sourceTree = "<group>"; };
 		BBC763661FBD2451003F274B /* Flickr Findr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flickr Findr.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -185,7 +183,6 @@
 		BBC763681FBD2451003F274B /* Flickr Findr */ = {
 			isa = PBXGroup;
 			children = (
-				BB53FB2A1FBFA096008F29F5 /* ReadMe.rtf */,
 				BB3E72FD1FBD5F63007EA8EC /* AppDelegate */,
 				BBC8952B1FBF56BD0074C12A /* Managers */,
 				BBC7638F1FBD24DF003F274B /* User Interface */,
@@ -380,7 +377,6 @@
 			files = (
 				BBC763741FBD2451003F274B /* LaunchScreen.storyboard in Resources */,
 				BBC763711FBD2451003F274B /* Assets.xcassets in Resources */,
-				BB53FB2B1FBFA096008F29F5 /* ReadMe.rtf in Resources */,
 				BBC7636F1FBD2451003F274B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

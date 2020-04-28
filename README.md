@@ -1,5 +1,5 @@
 # Flickr-Finder
-Flickr Finder Application in Swift 4 and XCode 9
+Flickr Finder Application in Swift 5 and XCode 11
 
 This application uses Flicker API to to search the keyword and also fetch the Photos
 
